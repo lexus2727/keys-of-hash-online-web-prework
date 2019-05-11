@@ -7,5 +7,5 @@ class Hash
     # code goes here
     arguments
   end
-  
+ end 
 end
