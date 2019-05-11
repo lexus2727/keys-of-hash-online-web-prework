@@ -15,4 +15,3 @@ class Hash
     end
   
   end
-keys_of("Australia", "Panama")
