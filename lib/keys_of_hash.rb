@@ -6,10 +6,9 @@ class Hash
     self.each do |i|
       #binding.pry
       arguments.each do |key, value|
+        binding.pry
         if i = value
-          
-    # code goes here
-   return array.push(key)
+         array.push(key)
   end
   end
  end 
