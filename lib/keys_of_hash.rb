@@ -8,7 +8,7 @@ class Hash
         if i = value
           
     # code goes here
-    arguments
+   return arguments
   end
   end
  end 
