@@ -8,12 +8,10 @@ class Hash
         #binding.pry
         if i == value 
          array.push(key)
-         
+         end
        end
-  end
-  end
- 
- end
+     end
+    end
   array
-end
-#keys_of("Australia", "Panama")
+  end
+keys_of("Australia", "Panama")
