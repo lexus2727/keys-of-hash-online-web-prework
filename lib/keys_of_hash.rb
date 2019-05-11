@@ -15,4 +15,4 @@ class Hash
     end
   
   end
-keys_of("Australia", "Panama")
+Hash.keys_of("Australia", "Panama")
