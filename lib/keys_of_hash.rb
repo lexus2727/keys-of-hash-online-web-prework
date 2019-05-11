@@ -12,7 +12,7 @@ class Hash
        end
   end
   end
-  return array
+ array
  end 
 end
 animals.keys_of("Australia", "Panama")
