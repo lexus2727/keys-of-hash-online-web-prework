@@ -5,7 +5,7 @@ class Hash
     self.each do |key, value|
       #binding.pry
       arguments.each do |i|
-        #binding.pry
+        binding.pry
         if i == value 
          array.push(key)
          end
