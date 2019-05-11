@@ -11,7 +11,8 @@ class Hash
          end
        end
      end
+     array
     end
-  array
+  
   end
 keys_of("Australia", "Panama")
