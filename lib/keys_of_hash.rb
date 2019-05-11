@@ -16,4 +16,4 @@ class Hash
     end
   
   end
-#animals.keys_of("Australia", "Panama")
+keys_of("Australia", "Panama")
