@@ -15,4 +15,4 @@ class Hash
  array
  end 
 end
-animals.keys_of("Australia", "Panama")
+keys_of("Australia", "Panama")
