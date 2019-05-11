@@ -13,5 +13,5 @@ class Hash
      end
    return array
     end
-  animals.keys_of("Australia", "Panama")
+  #array.keys_of("Australia", "Panama")
   end
