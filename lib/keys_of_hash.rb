@@ -13,5 +13,5 @@ class Hash
      end
    return array
     end
-  #array.keys_of("Australia", "Panama")
+  
   end
