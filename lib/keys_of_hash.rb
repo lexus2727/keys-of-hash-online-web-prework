@@ -14,6 +14,6 @@ class Hash
   end
  
  end
- return array
+  array
 end
 #keys_of("Australia", "Panama")
