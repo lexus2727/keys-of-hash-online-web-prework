@@ -7,7 +7,7 @@ class Hash
       
       arguments.each do |key, value|
         binding.pry
-        if i = value
+        if i == value value
          array.push(key)
        end
   end
